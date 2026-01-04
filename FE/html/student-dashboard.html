@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Начало - EduPlatform</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="screen">
+        <div class="header">
+            <div class="logo">📚 EduPlatform</div>
+            <div class="user-info">
+                <span id="userName">Зареждане...</span>
+                <div class="avatar" id="userAvatar">UC</div>
+                <button class="btn-logout" onclick="logout()">Изход</button>
+            </div>
+        </div>
+        
+        <div class="main-layout">
+            <div class="sidebar">
+                <div class="nav-item active" onclick="showSection('dashboard')">📊 Начало</div>
+                <div class="nav-item" onclick="showSection('materials')">📖 Материали</div>
+                <div class="nav-item" onclick="showSection('tests')">✍️ Тестове</div>
+                <div class="nav-item" onclick="showSection('grades')">📈 Оценки</div>
+                <div class="nav-item" onclick="showSection('games')">🎮 Игри</div>
+                <div class="nav-item" onclick="showSection('settings')">⚙️ Настройки</div>
+            </div>
+            
+            <div class="content">
+                <div id="dashboardSection">
+                    <h1 class="page-title">Добре дошъл, <span id="studentName">Ученик</span>!</h1>
+                    <div class="card-grid" id="subjectsGrid">
+                        <!-- Динамично зареждане на предмети -->
+                    </div>
+                </div>
+                
+                <div id="materialsSection" style="display: none;">
+                    <h1 class="page-title">Учебни материали</h1>
+                    <div id="materialsContent">
+                        <!-- Динамично зареждане на материали -->
+                    </div>
+                </div>
+                
+                <div id="testsSection" style="display: none;">
+                    <h1 class="page-title">Тестове</h1>
+                    <div id="testsContent">
+                        <!-- Динамично зареждане на тестове -->
+                    </div>
+                </div>
+                
+                <div id="gradesSection" style="display: none;">
+                    <h1 class="page-title">Моите оценки</h1>
+                    <div id="gradesContent">
+                        <!-- Динамично зареждане на оценки -->
+                    </div>
+                </div>
+                
+                <div id="gamesSection" style="display: none;">
+                    <h1 class="page-title">Образователни игри</h1>
+                    <div id="gamesContent">
+                        <!-- Динамично зареждане на игри -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="../js/auth.js"></script>
+    <script src="../js/main.js"></script>
+    <script src="../js/student.js"></script>
+</body>
+</html>

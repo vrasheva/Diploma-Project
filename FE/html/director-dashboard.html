@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Директор - EduPlatform</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="screen">
+        <div class="header">
+            <div class="logo">📚 EduPlatform</div>
+            <div class="user-info">
+                <span id="userName">Зареждане...</span>
+                <div class="avatar" id="userAvatar">ДИР</div>
+                <button class="btn-logout" onclick="logout()">Изход</button>
+            </div>
+        </div>
+        
+        <div class="main-layout">
+            <div class="sidebar">
+                <div class="nav-item active" onclick="showSection('dashboard')">📊 Начало</div>
+                <div class="nav-item" onclick="showSection('approvals')">📋 Одобрения</div>
+                <div class="nav-item" onclick="showSection('statistics')">📈 Статистики</div>
+                <div class="nav-item" onclick="showSection('users')">👥 Потребители</div>
+            </div>
+            
+            <div class="content">
+                <div id="dashboardSection">
+                    <h1 class="page-title">Добре дошли, <span id="directorName">Директор</span>!</h1>
+                    <div class="card-grid">
+                        <div class="card">
+                            <div class="card-icon" style="background: #FFF5F3; color: #FF7A59;">📋</div>
+                            <div class="card-title" id="pendingCount">0</div>
+                            <div class="card-desc">Чакащи заявки</div>
+                        </div>
+                        <div class="card">
+                            <div class="card-icon" style="background: #d4edda; color: #28a745;">✓</div>
+                            <div class="card-title" id="approvedCount">0</div>
+                            <div class="card-desc">Одобрени този месец</div>
+                        </div>
+                        <div class="card">
+                            <div class="card-icon" style="background: #f8d7da; color: #dc3545;">✗</div>
+                            <div class="card-title" id="rejectedCount">0</div>
+                            <div class="card-desc">Отказани този месец</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="approvalsSection" style="display: none;">
+                    <h1 class="page-title">Заявки за одобрение</h1>
+                    <div id="approvalsContent">
+                        <!-- Динамично зареждане на заявки -->
+                    </div>
+                </div>
+                
+                <div id="statisticsSection" style="display: none;">
+                    <h1 class="page-title">Статистики</h1>
+                    <div id="statisticsContent">
+                        <!-- Динамично зареждане на статистики -->
+                    </div>
+                </div>
+                
+                <div id="usersSection" style="display: none;">
+                    <h1 class="page-title">Управление на потребители</h1>
+                    <button class="btn" onclick="addUser()">➕ Добави потребител</button>
+                    <div id="usersContent">
+                        <!-- Динамично зареждане на потребители -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script src="../js/auth.js"></script>
+    <script src="../js/main.js"></script>
+    <script src="../js/director.js"></script>
+</body>
+</html>
