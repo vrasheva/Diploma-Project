@@ -1,43 +1,46 @@
-using Microsoft.EntityFrameworkCore;
-using SummerPracticeWebApi.DataAccess.Context;
+using SchoolPlatform.API.Data;
+using SchoolPlatform.API.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// Add services to the container
 builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
+// Register Database and Repositories
+builder.Services.AddSingleton<DatabaseConnection>();
+builder.Services.AddScoped<UserRepository>();
 
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
-
-// Add CORS services
+// Add CORS за Frontend
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowAll", policy =>
+    options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.AllowAnyOrigin()  // Allows any origin
-              .AllowAnyMethod()  // Allows any HTTP method
-              .AllowAnyHeader(); // Allows any headers
+        policy.WithOrigins("http://127.0.0.1:5500", "http://localhost:5500") // Live Server портове
+              .AllowAnyMethod()
+              .AllowAnyHeader()
+              .AllowCredentials();
     });
 });
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Test database connection
+var dbConnection = app.Services.GetRequiredService<DatabaseConnection>();
+await dbConnection.TestConnectionAsync();
+
+// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseDeveloperExceptionPage();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
+app.UseCors("AllowFrontend");
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-// Enable CORS for the application
-app.UseCors("AllowAll");
 
 app.Run();

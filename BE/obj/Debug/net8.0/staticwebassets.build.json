@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TrPtclsv2UrXNafomvRbrjwgCVfTKq4AdRWTiXGrhcw=",
+  "Source": "SchoolPlatform.API",
+  "BasePath": "_content/SchoolPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

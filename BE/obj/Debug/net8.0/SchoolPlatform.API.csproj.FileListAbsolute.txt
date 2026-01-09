@@ -1,0 +1,114 @@
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.staticwebassets.endpoints.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.exe
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.deps.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.runtimeconfig.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\SchoolPlatform.API.pdb
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.AssemblyInfo.cs
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\scopedcss\bundle\SchoolPlatform.API.styles.css
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets\msbuild.SchoolPlatform.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets\msbuild.SchoolPlatform.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolPlatform.API.props
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolPlatform.API.props
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolPlatform.API.props
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPl.0CA9B18D.Up2Date
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\refint\SchoolPlatform.API.dll
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.pdb
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\SchoolPlatform.API.genruntimeconfig.cache
+C:\Users\User\source\repos\SchoolPlatform.API\SchoolPlatform.API\obj\Debug\net8.0\ref\SchoolPlatform.API.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\appsettings.Development.json
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\appsettings.json
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.staticwebassets.endpoints.json
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.exe
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.deps.json
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.runtimeconfig.json
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\SchoolPlatform.API.pdb
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Dapper.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Google.Protobuf.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\MySql.Data.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\MySqlConnector.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\ZstdSharp.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.csproj.AssemblyReference.cache
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.AssemblyInfoInputs.cache
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.AssemblyInfo.cs
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.csproj.CoreCompileInputs.cache
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.MvcApplicationPartsAssemblyInfo.cs
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.MvcApplicationPartsAssemblyInfo.cache
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.sourcelink.json
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\scopedcss\bundle\SchoolPlatform.API.styles.css
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets.build.json
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets.development.json
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets\msbuild.SchoolPlatform.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets\msbuild.SchoolPlatform.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets\msbuild.build.SchoolPlatform.API.props
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SchoolPlatform.API.props
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SchoolPlatform.API.props
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPl.0CA9B18D.Up2Date
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\refint\SchoolPlatform.API.dll
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.pdb
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\SchoolPlatform.API.genruntimeconfig.cache
+C:\My things\SchoolPlatform\Diploma Project\BE\obj\Debug\net8.0\ref\SchoolPlatform.API.dll

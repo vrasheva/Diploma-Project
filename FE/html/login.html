@@ -3,41 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Вход - EduPlatform</title>
+    <title>Вход - School Platform</title>
     <link rel="stylesheet" href="../css/login.css">
 </head>
 <body>
     <div class="login-container">
         <div class="login-box">
-            <div class="logo">📚 EduPlatform</div>
+            <div class="logo">🎓 EduPlatform</div>
             <h2>Добре дошли</h2>
-            <p class="subtitle">Влезте в профила си</p>
+            <p class="subtitle">Влезте във вашия акаунт</p>
+            
+            <div id="errorMessage" class="error-message"></div>
             
             <form id="loginForm">
                 <div class="form-group">
-                    <label for="email">Имейл</label>
-                    <input type="email" id="email" placeholder="your@email.com" required>
+                    <label for="email">Email адрес</label>
+                    <input 
+                        type="email" 
+                        id="email" 
+                        placeholder="example@email.com" 
+                        required
+                    >
                 </div>
                 
                 <div class="form-group">
                     <label for="password">Парола</label>
-                    <input type="password" id="password" placeholder="••••••••" required>
+                    <input 
+                        type="password" 
+                        id="password" 
+                        placeholder="••••••••" 
+                        required
+                    >
                 </div>
-                
-                <div class="error-message" id="errorMessage"></div>
                 
                 <button type="submit" class="btn-login">Вход</button>
             </form>
             
             <div class="demo-credentials">
-                <p><strong>Демо профили:</strong></p>
-                <p>👨‍🎓 Ученик: student@edu.bg / student123</p>
-                <p>👨‍🏫 Учител: teacher@edu.bg / teacher123</p>
-                <p>👔 Директор: director@edu.bg / director123</p>
+                <p>🔑 Тестови акаунти:</p>
+                <p>👨‍🎓 Ученик: student@test.com / pass123</p>
+                <p>👨‍🏫 Учител: teacher@test.com / pass123</p>
+                <p>👔 Директор: director@test.com / pass123</p>
             </div>
         </div>
     </div>
-    
-    <script src="../js/auth.js"></script>
+
+    <script src="../js/login.js"></script>
 </body>
 </html>
